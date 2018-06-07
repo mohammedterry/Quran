@@ -1,2 +1,2 @@
 # Quran
-parallel corpus of Quran translations
+parallel corpus of Quran English translations
